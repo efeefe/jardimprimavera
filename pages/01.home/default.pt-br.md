@@ -8,7 +8,7 @@ body_classes: 'title-center title-h1h2'
 # Escola Waldorf Jardim Primavera
 ## Ubatuba - SP - Brasil
 
-![](flyer-matriculas.jpeg?cropzoom=200,200&classes=float-right) Somos uma Escola Waldorf na cidade de Ubatuba, litoral de São Paulo. O Jardim Primavera nasceu de um desejo compartilhado por algumas famílias: oferecer a suas crianças uma Escola que as respeitasse como indivíduos. Daí a escolha da [pedagogia Waldorf](http://jardimprimavera.envs.subutai.cloud/pedagogia-waldorf).
+![](flyer-matriculas.jpeg?cropZoom=200,200) Somos uma Escola Waldorf na cidade de Ubatuba, litoral de São Paulo. O Jardim Primavera nasceu de um desejo compartilhado por algumas famílias: oferecer a suas crianças uma Escola que as respeitasse como indivíduos. Daí a escolha da [pedagogia Waldorf](http://jardimprimavera.envs.subutai.cloud/pedagogia-waldorf).
 
 A Escola foi fundada na residência de uma professora em 2009 e, desde então, não parou de crescer, criando fortes raízes. Hoje ocupamos um terreno de 2.000 m², com grande área verde, e acolhemos crianças de [Jardim de Infância e Ensino Fundamental](http://jardimprimavera.envs.subutai.cloud/pt-br/vida-escolar).
 
