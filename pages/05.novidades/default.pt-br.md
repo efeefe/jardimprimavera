@@ -1,6 +1,5 @@
 ---
 title: Novidades
-
 content:
     items: '@self.children'
     order:
@@ -8,6 +7,5 @@ content:
         dir: desc
     limit: 10
     pagination: true
-
 ---
 
