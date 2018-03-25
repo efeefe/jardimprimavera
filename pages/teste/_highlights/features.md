@@ -1,5 +1,5 @@
 ---
-title: Homepage Callout
+title: Highlight features
 image_align: right
 ---
 

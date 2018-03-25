@@ -1,5 +1,5 @@
 ---
-title: Homepage Callout
+title: Callout - Text
 image_align: right
 ---
 
