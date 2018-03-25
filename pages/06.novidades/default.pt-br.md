@@ -2,3 +2,5 @@
 title: Novidades
 ---
 
+Novidades aqui.
+
