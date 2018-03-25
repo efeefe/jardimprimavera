@@ -3,6 +3,7 @@ title: 'Página Inicial'
 media_order: 'DSC_0095.jpg,DSC_0110.jpg,DSC_0150.jpg,flyer-matriculas.jpeg'
 published: true
 body_classes: 'title-center title-h1h2'
+visible: false
 ---
 
 ![](flyer-matriculas.png)
