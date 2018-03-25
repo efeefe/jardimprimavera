@@ -1,6 +1,6 @@
 ---
 title: 'Escola Waldorf Jardim Primavera'
-media_order: 'DSC_0095.jpg,DSC_0110.jpg,DSC_0150.jpg,flyer-matriculas.jpeg'
+media_order: 'DSC_0095.jpg,DSC_0110.jpg,DSC_0150.jpg'
 published: true
 body_classes: 'title-center title-h1h2'
 visible: false
