@@ -11,3 +11,4 @@ content:
     url_taxonomy_filters: true
 ---
 
+Saiba das novidades mais recentes da Escola Jardim Primavera. Acompanhe também nossa [página no Facebook](https://www.facebook.com/EscolaWaldorfJardimPrimavera/).
