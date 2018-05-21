@@ -11,6 +11,8 @@ content:
     url_taxonomy_filters: true
 ---
 
+# Jardim de Infância
+
 Durante o primeiro setênio de vida – ou seja, na Educação Infantil –, o mundo é bom, a criança é recebida num ambiente caloroso, acolhedor e familiar, como a extensão do lar, onde poderá se desenvolver corporalmente, plasmar seus órgãos, adentrar com seu Pensar no mundo da imaginação, ser levada com sentido em suas ações e receber com olhar carinhoso o alimento artístico para seu Sentir. As manhãs são conduzidas por um ritmo orgânico, seguindo o movimento natural de uma constante respiração: inspirar e expirar; dentro e fora; pequeno e grande; micro e macro. Esse ritmo salutar traz segurança para a criança. 
 
 Nesse movimento em alternância de concentração e expansão proposto pelos(as) educadores(as), em sala ou no parque, as crianças correm, escalam, balançam, movimentam-se, pintam, desenham, fazem o pão, realizam trabalhos manuais, jardinagem, cantam, ouvem histórias, exercitando a motricidade, o ouvir ativo, a fala, o amor e o respeito ao outro e à natureza, o desenvolvimento de força, equilíbrio, domínio do espaço, lateralidade, adquirindo conhecimento de seu corpo e reforçando sua autoconfiança.
