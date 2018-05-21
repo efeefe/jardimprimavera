@@ -10,3 +10,5 @@ title: 'Contato e localização'
 
 Rua Cunhambebe, 1123 - Centro - Ubatuba/SP - CEP 11680-000.
 Telefone: (12) 3832-1445
+
+Entre em contato também por nossa [página no Facebook](https://www.facebook.com/EscolaWaldorfJardimPrimavera/).
