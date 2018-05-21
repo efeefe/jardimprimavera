@@ -2,46 +2,26 @@
 title: 'Pedagogia Waldorf'
 ---
 
-### Perguntas e Respostas
+_“Não se deve perguntar o que o ser humano necessita saber e conhecer em relação à ordem social estabelecida, mas sim, que potencial existe no ser humano e o que pode nele se desenvolver. Assim será possível acrescentar sempre forças renovadas, procedentes da geração em desenvolvimento, à ordem social. Dessa maneira, viverá sempre nessa ordem social aquilo que os indivíduos que nela ingressam conseguem realizar. Não se deve fazer desta nova geração aquilo que a ordem social existente deseja fazer”._                                                                                                                         
+_Rudolf Steiner_
 
-#### Qual é a origem da Educação Waldorf?
+A Pedagogia Waldorf é considerada pela Unesco (Organização das Nações Unidas para a Educação, a Ciência e a Cultura) uma pedagogia capaz de responder aos desafios educacionais, principalmente em áreas de grandes diferenças culturais. Isso porque ela leva em consideração as quatro diretrizes estabelecidas pela entidade para um novo modelo de educação, com a valorização do desenvolvimento das potencialidades humanas: aprender a conhecer; aprender a fazer; aprender a conviver; aprender a ser. 
 
- Em 1919, em Stuttgart, na Alemanha, Rudolf Steiner (1861-1925) filósofo, cientista e artista austríaco foi convidado por Emil Molt, o proprietário da Fábrica de cigarros Waldorf-Astoria, para uma série de palestras para os trabalhadores de sua fábrica. Como resultado, os trabalhadores pediram a Steiner que fundasse e dirigisse uma Escola para seus filhos. Emil Molt, apoiava e financiava a concretização da ideia. Steiner concordou, mas colocou algumas condições: a Escola deveria ser aberta, indistintamente, para todas as crianças, deveria ser co-educacional e também ter um currículo unificado de 12 anos e que os professores fossem também os dirigentes e administradores da mesma. Queria que a Escola Waldorf tivesse o mínimo de interferência governamental e não tivesse preocupação com objetivos lucrativos. Emil Molt concordou e em 7 de setembro de 1919 foi aberta a primeira ”Escola Waldorf Livre”.
+O método pedagógico utilizado nas Escolas Waldorf foi idealizado por Rudolf Steiner, em 1919, e tem como meta desenvolver o ser humano da forma mais ampla possível, dando possibilidades para que seu Pensar, Sentir e Querer amadureçam de forma equilibrada e completa. Buscamos atingir esses objetivos por meio de atividades artísticas, de trabalhos práticos e do ritmo das comemorações. Na Pedagogia Waldorf, as crianças são consideradas em seus aspectos individuais e nas particularidades da faixa etária a que elas pertencem, sem generalizá-las.
 
-#### O que há de tão particular na Educação Waldorf?
+Para viabilizar essa individualidade, há uma constante troca de experiências entre professor(a), alunos(as) e famílias.  O(a) educador(a) está sempre atento às necessidades de cada membro de seu grupo. Por meio de exercícios artísticos, comprometimento com estudos frequentes e de meditação, o(a) professor(a) primeiramente trabalha a sua autoeducação. Ele(a) entra em contato com cada criança da sala, em sua essência, com profunda observação e admiração, para sentir suas necessidades e harmonizar o grupo de acordo com a fase evolutiva de cada indivíduo. O professor trabalha em parceria com as famílias, recebendo informações importantes do contexto familiar e traz suas devolutivas das observações pedagógicas. Essa troca se dá em reuniões individuais – que acontecem duas vezes ao ano ou mais, conforme a necessidade – e no coletivo, durante as Reuniões de Sala, agendadas ao longo do ano.
 
-Se fosse possível resumir numa frase diríamos que “nosso mais alto empenho deve ser o de desenvolver seres humanos capazes de, por eles próprios, dar sentido e direção às suas vidas”. A principal meta de uma Escola Waldorf é desenvolver na criança “cabeça, coração e mãos” através de um currículo que equilibra atividades escolares variadas. Na Educação Infantil este currículo contempla extensa preocupação com matérias de arte seja a música, a arte plástica, trabalhos manuais, além de matérias como jardinagem, culinária e horticultura. Através dessas atividades as crianças se despertam para o aprendizado. Além disso, há uma enorme preocupação em trabalhar as atividades de movimento como fala, coordenação, lateralidade, seja através dos ritmos diários ou através do brincar. A fantasia e a criatividade são estimuladas através de histórias, canções, teatros e dramatizações, do brincar livre e da participação espontânea nas atividades da vida diária. Essas atividades são desenvolvidas baseadas nas idades das crianças.
+## Reflexão para as Famílias
 
-#### O que é Antroposofia?
+Nas escolas Waldorf, contemplamos as possibilidades, habilidades e dificuldades de cada indivíduo,criando condições necessárias para integrar a comunidade e a [Antroposofia](antroposofia). Aos poucos, encontramos a identidade de nossa escola e nos fortalecemos como grupo. 
 
-Correspondendo às suas raízes lingüísticas, a palavra Antroposofia (do grego Antropos – homem e Sophia – sabedoria) significa sabedoria a respeito do homem. Procura satisfazer a busca de conhecimento do homem moderno a respeito de si mesmo, buscando responder recorrentes perguntas do ser humano: Quem sou eu? De onde venho? Para onde vou? Qual é o sentido de minha existência? Além da Pedagogia Waldorf, a Antroposofia trouxe bases científicas para uma renovação nas diversas áreas da vida social, como a Medicina, Artes, Agricultura Biodinâmica, Terapias, Educação Especial, e muitas outras. (Veja mais no site: www.sab.org.br).
+A humanidade caminha em um ritmo acelerado, levando à ansiedade, ao estresse e aos excessos. E não só os excessos que exaurem nossos sentidos e órgãos vitais, mas, principalmente o consumismo, a competitividade e as vivências superficiais. Não estamos fora deste movimento. Não estamos dentro de uma bolha nem somos imunes a essas influências. Só não podemos nos esquecer de que cada um, em seu tempo, deve caminhar e lutar contra essas forças que impedem a evolução humana livre e harmoniosa. Juntos, somos fortes.
+Por isso, pedimos a colaboração para evitarem os uso de tecnologias (telas), mídias e materiais que não são naturais para as crianças. A educação do indivíduo na coletividade é um constante observar. A presença das famílias é imprescindível para o aprendizado das crianças para a construção se sua relação social. Possibilitar essa integração com consciência no Pensar, Sentir e Querer é uma necessidade do nosso tempo e um dever de todos nós. Isso exige uma autoeducação constante para ser ativo socialmente com amor, liberdade, igualdade e fraternidade; para olhar para o micro e para o macro sempre. Sozinho trabalho o meu “Eu” e, a partir disso, juntos, seremos uma potência.  
 
-#### A Pedagogia Waldorf tem algo de Religioso?
+## Os Setênios
 
- Não na forma como é entendida uma escola “religiosa”. Embora tenha fundamentos cristãos, nenhuma doutrina religiosa em particular é defendida ou ensinada. Ao longo do ano, festas como a Páscoa, São João, São Michael, Natal e a Semana da Primavera são comemoradas. Estas festas visam despertar na criança valores e sentimentos de compreensão, admiração e reverência pela beleza da vida e da natureza, servem para religar ou conectar a humanidade com os ritmos da natureza. Essas Festas têm origens nas culturas mais antigas e são uma forma de arte. São povoadas da alegria e do entusiasmo das crianças, quer na preparação, como na celebração.
+A Antroposofia estuda a biografia humana em períodos de sete anos. Estes setênios marcam os períodos educativos na Escola Waldorf, assim como a didática para cada etapa da vida. Formulando períodos longos de desenvolvimento nos quais é possível observar mudanças importantes, não só fisicamente, mas também nos aspectos afetivo e espiritual, a abordagem por setênios permite um espaço maior de tempo para evidenciar as mudanças e conquistas do aluno, minimizando o estresse escolar para as crianças e para as famílias. 
 
-#### Como a Educação Waldorf lida com crianças que apresentam dificuldades?
+O primeiro setênio é contemplado, em nossa escola, pelo [Jardim de Infância](jardim-de-infancia), que recebe crianças de 2 a 6 anos. No começo de seu segundo setênio, aos 7 anos, a criança ingressa no Primeiro Ano do [Ensino Fundamental](ensino-fundamental) e inicia seu processo de alfabetização. 
 
-A Pedagogia enxerga o ser humano em sua totalidade. Não se privilegia o intelecto, ou as habilidades artísticas, ou as manuais, mas sim tenta ser encontrada a forma com que a criança manifesta seu potencial, a sua forma de expressão no mundo. Por isso, as Escolas Waldorf relutam em rotular, a pretexto de diagnóstico, crianças com termos tais como: “lenta”, “agressiva” ou “problemática”. A criança que apresenta problemas em uma área – seja ela mais cognitiva, emocional ou física – geralmente trará em si, aspectos bons e positivos a serem ressaltados.
-
-#### Qual é o tipo de formação que os professores Waldorf recebem?
-
-Embora alguns requisitos para ser professor possam variar de Escola para Escola, os professores de uma Escola Waldorf devem ter formação superior e estarem legalmente habilitados para a prática da profissão de docente e também ter passado por um curso de 2 a 3 anos de duração, específico sobre a Pedagogia Waldorf e sua metodologia. Curso este que inclui estágios e aulas práticas supervisionadas numa Escola Waldorf. Rudolf Steiner, numa palestra em Oxford no ano de 1922, definiu as “3 regras de ouro” para um professor Waldorf: “Receber a criança em agradecimento ao mundo de onde ela vem; educar a criança com amor; conduzir a criança através da verdadeira liberdade que pertence ao Homem”.
-
-#### Quantas Escolas Waldorf existem atualmente?
-
-São mais de 1000 Escolas Waldorf, espalhadas por 32 países. A rede de Escolas Waldorf encontra-se atualmente em franca expansão.
-
-### Bibliografia sugerida
-
-*     A Natureza Anímica da Criança – Caroline von Heydebrand
-*     Jardim-de-Infância – Helle Heckmann
-*     Os Temperamentos – Rudolf Steiner
-*     Andar, Falar e Pensar – Rudolf Steiner
-*     A Pedagogia Waldorf – Rudolf Lanz
-*     Criança Querida – Renate Keller Ignácio
-*     Desvendando o Crescimento – Bernard Lievegoed
-*     Tomar a Vida Pelas Próprias Mãos – Gudrun Burkhard
-*     O Fio de Ariadne – Sueli Pecci Passerini
-*     As Cirandas de Ontem e de Hoje – D. Udo de Haes
-*     Os primeiros sete anos / Fisiologia da Infância – Edmond Schoorel
+Atualmente, a Escola Waldorf Jardim Primavera atua com o horizonte de formação de turmas até o Quinto Ano do Ensino Fundamental. No entanto, uma Comissão composta por famílias e professores já trabalha para viabilizar a continuidade do Ensino Fundamental a partir do Sexto Ano.
