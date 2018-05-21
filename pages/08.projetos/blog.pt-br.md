@@ -2,6 +2,8 @@
 title: Projetos
 ---
 
+# Projetos
+
 Loja FLOR DE PRIMAVERA e Grupo de Trabalhos Manuais
 
 A Loja Flor de Primavera surgiu no fim de 2014 a partir do encontro de algumas mães que se reuniam com seus filhos para produzir os artesanatos para o Bazar de Natal da Escola. As reuniões aconteciam semanalmente na casa de uma das famílias. Enquanto as mães trabalhavam e trocavam experiências, as crianças brincavam e compartilhavam um lanche. Em pouco tempo, este encontro despretensioso ganhou força e incentivou a criação da Loja da nossa Escola, que reúne muitos produtos feitos pelas mães.
