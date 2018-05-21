@@ -1,5 +1,5 @@
 ---
-title: 'Escola Waldorf Jardim Primavera'
+title: 'Página Inicial'
 media_order: flyer-matriculas.png
 published: true
 body_classes: 'title-center title-h1h2'
