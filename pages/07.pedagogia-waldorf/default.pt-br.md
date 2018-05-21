@@ -2,6 +2,8 @@
 title: 'Pedagogia Waldorf'
 ---
 
+# Pedagogia Waldorf
+
 _“Não se deve perguntar o que o ser humano necessita saber e conhecer em relação à ordem social estabelecida, mas sim, que potencial existe no ser humano e o que pode nele se desenvolver. Assim será possível acrescentar sempre forças renovadas, procedentes da geração em desenvolvimento, à ordem social. Dessa maneira, viverá sempre nessa ordem social aquilo que os indivíduos que nela ingressam conseguem realizar. Não se deve fazer desta nova geração aquilo que a ordem social existente deseja fazer”._                                                                                                                         
 _Rudolf Steiner_
 
