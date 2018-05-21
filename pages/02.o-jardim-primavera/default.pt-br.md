@@ -2,7 +2,7 @@
 title: 'A Escola Jardim Primavera'
 ---
 
-### A Escola Jardim Primavera
+# A Escola Jardim Primavera
 
 Nossa Missão:
 
