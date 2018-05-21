@@ -58,22 +58,21 @@ As regras gramaticais, assim como o reforço das conjugações dos verbos, pontu
 A fração é a tônica. O(a) aluno(a) deve ter muito vivo dentro de si as tabuadas e as quatro operações. A História, a Geografia da região e a Zoologia são vivenciadas e registradas em caderno.
 Nas aulas de retorno com o(a) Professor(a) de Classe são ministradas as disciplinas artísticas de Desenho de Formas com imagens, movimentos amplos e pequenos, além de pintura com Aquarela, trazendo com histórias no âmbito da personalidade das cores, a constituição dos animais e ilustrações das Épocas.
 
-Matérias do Fundamental
-Alemão e Inglês
+### Matérias do Fundamental
+#### Alemão e Inglês
 O ensino de alemão e inglês entra como matérias complementares no Currículo Escolar Waldorf. Nos primeiros anos do ensino fundamental proporcionam, por meio da imitação, novas formas de pensar e ver o mundo. Aprender línguas faz com que a criança ouça, sinta e vivencie essa cultura por meio da própria oralidade, de versos, músicas e jogos. Posteriormente, a partir do 4º Ano, gradativamente, são apresentadas as estruturas gramaticais e exercitadas as conjugações e a própria escrita das línguas estrangeiras.
 
-Trabalhos Manuais
+#### Trabalhos Manuais
 A criança precisa ser conscientizada do valor de suas mãos. Os movimentos repetidos ritmicamente e adequados à idade promovem à criança autoconfiança, maturidade, clareza de pensamentos, concentração, sensibilidade e equilíbrio. Nesta atividade, a criança participa da própria criação, de cada etapa do trabalho, que tem começo, meio e fim, além de ter a chance de visualizar o produto terminado, fortalecendo a vontade. O trabalho manual organiza as emoções.  O gesto de tricotar, bordar, tecer reúne as mãos diante do coração, que é o nosso órgão do afeto, para que as agulhas e linhas gravem nos tecidos os nossos pensamentos e sentimentos. Nas aulas, a criança faz adornos, brinquedos e utensílios para a sala de aula.
-Religiosidade
+#### Religiosidade
 A Religiosidade na escola Waldorf traz um foco a mais no trabalho de ligar o ser humano com suas virtudes humanas, trazendo alimento anímico para as crianças e nutrindo sentimentos de veneração perante a vida, a natureza e a humanidade. O(a) professor(a) de Religiosidade representa também um olhar a mais para os desafios daquele grupo e pode trabalhar histórias e atividades que ampliem o nível de atuação sobre a sala. O trabalho da Religiosidade dá base para um salutar desenvolvimento moral e social, além de cultivar a busca por valores espirituais.
-
-Música
+#### Música
 “Nos primeiros três anos do ensino fundamental, temos que nos defrontar essencialmente com situações simples no campo musical.” (Rudolf Steiner)
 A flauta doce é o instrumento que acompanha os(as) alunos(as) por todo seu caminho na escola Waldorf. Esse instrumento ajuda na organização da respiração das crianças, na afinação e na formação do grupo. Brincadeiras de dedos e ritmos corporais também estão presentes e auxiliam na articulação vocal. O trabalho se fundamenta com as vozes das crianças. Elas cantam e se harmonizam na atmosfera musical do grupo. As composições e seus versos são adequados e direcionados a cada faixa etária, respeitando a Antropologia Antroposófica.
 
 No 1º Ano utiliza-se a escala pentatônica com intervalo de 5ª e o Kântele, instrumento de cordas que traz um âmbito celestial para o grupo, esse que está em transição para o ensino fundamental. A partir do 2º Ano, gradativamente, as notas fá e dó adentram as composições juntamente com diversas percussões marcando o ritmo. Os sustenidos entram a partir do 3º Ano, juntamente com as vivências de cânones e as Rabecas como novo instrumento. A partir do 4º Ano, as vivências musicais entram em aprofundamento. Há leitura de partituras, formação de pequenas orquestras, grupos diversos (cordas, sopros, metais...), escalas e afinações, corais e novos instrumentos de acordo com a escolha do(a) aluno(a) ou orientação pedagógica do(a) professor(a).
-Ciências da Terra
 
+#### Ciências da Terra
 Nas aulas de Ciências da Terra, as crianças observam o ritmo e as características da natureza local: as estações do ano, as fases da lua, florescimento e frutificação, ventos, chuvas e marés. Ao trabalhar a terra, as crianças podem vivenciar estes fenômenos e ter contato com a sabedoria milenar de semear, plantar, colher e processar os frutos deste trabalho. Ao aprender a cultivar o seu alimento, plantar flores e cuidar do jardim descobrimos que, com as nossas próprias mãos, podemos modificar o mundo. Assim, aos poucos, desperta na criança a responsabilidade de suas ações na Terra. 
 
 ### O lanche no Fundamental
