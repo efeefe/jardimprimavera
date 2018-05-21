@@ -49,3 +49,6 @@ Importante: Faz parte da rotina do Jardim da Infância da nossa escola, as famí
 ## O lanche no Jardim de Infância
 
 Valorizamos o alimento saudável, fresco e feito com amor. O lanche das crianças no Jardim de Infância é feito pelos(as) próprios(as) professores(as) em sala. Cada sala tem o seu cardápio, com grãos, verduras, legumes, cereais, sementes, frutas e chás. As crianças podem ajudar no preparo da comida, na arrumação da mesa e na lavagem da louça. Os alimentos usados são comprados pelas famílias em esquema de rodízio semanal: uma lista com a “feirinha” será entregue aos responsáveis para que aquela criança ofereça o lanche da semana. 
+
+## Horário de entrada e saída 
+O horário de entrada é das 7h15 às 7h30. As crianças do Jardim de Infância devem ser levadas até a porta de suas salas e entregues a(o) professor(a). O horário de saída é às 12h05. Os(as) alunos(as) de todas as turmas – Jardim de Infância e Fundamental – aguardam suas famílias em suas respectivas salas para voltar para casa, contar as novidades que aprenderam, comer e descansar. Por isso, o horário de saída não deve se alongar e a permanência de crianças correndo e brincando pela escola desarmoniza o ritmo individual e social que foi instaurado pela manhã e que deve ser levado ao longo do dia.
