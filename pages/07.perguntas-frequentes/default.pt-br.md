@@ -4,6 +4,8 @@ title: 'Perguntas Frequentes'
 
 # Perguntas Frequentes
 
+Tire suas dúvidas sobre assuntos ligados à Escola Jardim Primavera.
+
 ## Por que as Escolas Waldorf  adotam uma prática pedagógica diferente das demais escolas?
 Para a Pedagogia Waldorf, nenhuma criança é “tábula rasa”, um papel em branco, como afirmam algumas correntes de pensamento. Para a Pedagogia Waldorf, cada criança traz consigo um potencial de  predisposições e capacidades que na escola podem ser plenamente desenvolvidas. Toda a ação pedagógica está adequada ao acompanhamento e seguimento do nível e da conformação grupal, isto é, adequada em relação ao tempo de desenvolvimento e crescimento individual. A evolução de cada criança tem seu ritmo e características próprias, sem perder de vista o contexto do seu grupo. Para o(a) professor(a) consiste em reconhecer o momento oportuno e a maneira adequada  de apresentar a seus(suas) alunos(as) os conteúdos de aprendizagem. Para isso, é preciso perceber o interesse específico por aprender determinados conteúdos; ambos intimamente vinculados com a transformação da relação criança-mundo que se expressa nos passos evolutivos. Quando há respeito em relação a essas necessidades e interesses, consegue-se verdadeiramente assimilação e internalização efetiva dos novos conceitos. Desta maneira, as crianças aprendem o novo e o integram ao seu saber, já que para isso estão basicamente predispostas. Caso pudéssemos resumir em apenas uma frase a diferença da Pedagogia Waldorf para a convencional, ela seria: A Pedagogia Waldorf forma, a convencional informa.
 
