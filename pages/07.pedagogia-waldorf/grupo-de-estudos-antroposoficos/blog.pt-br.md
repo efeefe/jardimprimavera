@@ -1,6 +1,17 @@
 ---
 title: 'Grupo de Estudos Antroposóficos'
+content:
+    items:
+        - '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true
 ---
+
+# Grupo de Estudos Antroposóficos
 
 Rudolf Steiner publicou A Filosofia da Liberdade, em 1894, e fez sua última leitura pública em 28 de setembro de 1924. Entre um momento e outro, ele acumulou 30 livros publicados e cerca de 6 mil conferências oferecidas, a maioria delas registradas graficamente. A ciência espiritual apresentada por Steiner traz a luz da espiritualidade sobre o materialismo vigente.
 
