@@ -1,5 +1,14 @@
 ---
 title: 'Jardim de Infância'
+content:
+    items:
+        - '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true
 ---
 
 Durante o primeiro setênio de vida – ou seja, na Educação Infantil –, o mundo é bom, a criança é recebida num ambiente caloroso, acolhedor e familiar, como a extensão do lar, onde poderá se desenvolver corporalmente, plasmar seus órgãos, adentrar com seu Pensar no mundo da imaginação, ser levado com sentido em suas ações e receber com olhar carinhoso o alimento artístico para seu Sentir. As manhãs são conduzidas por um ritmo orgânico, seguindo o movimento natural de uma constante respiração: inspirar e expirar; dentro e fora; pequeno e grande; micro e macro. Esse ritmo salutar traz segurança para a criança. 
@@ -8,11 +17,11 @@ Nesse movimento em alternância de concentração e expansão proposto pelos(as)
 
 As nossas salas de Jardim de Infância são Salas Mistas, onde convivem crianças entre 2 e 6 anos, o que propicia riqueza nas interelações, em que o pequeno admira o grande e o grande zela pelo pequeno, formando uma grande família. Diante da criança, a conduta dos educadores e educadoras é interessada, amorosa, exemplar, consciente de que a sua postura deve ser permeada de atos e gestos coerentes. É a autoridade digna de ser imitada. 
 
-Nas salas do Jardim de Infância, as crianças de 6 anos recebem uma atenção especial, pois estão em prontidão rumo ao Ensino Fundamental. Os(as) professores(as) desenvolvem atividades direcionadas especificamente a essas crianças para prepará-las para o 1º Ano. 
+Nas salas do Jardim de Infância, as crianças de 6 anos recebem uma atenção especial, pois estão em prontidão rumo ao [Ensino Fundamental](../ensino-fundamental). Os(as) professores(as) desenvolvem atividades direcionadas especificamente a essas crianças para prepará-las para o 1º Ano. 
 
 ## O dia a dia do Jardim de Infância
 
-A rotina do Jardim de Infância é definida pelo(a) professor(a), por meio de sua compreensão da criança pequena e de seu desenvolvimento segundo a Antroposofia. Os elementos principais são ritmos sólidos na rotina diária e no progresso semanal e uma forte relação com as estações do ano e as comemorações. Os ritmos previsíveis ao longo do dia, semana e ano que fornecem segurança e um sentido das interelações e plenitude da vida.
+A rotina do Jardim de Infância é definida pelo(a) professor(a), por meio de sua compreensão da criança pequena e de seu desenvolvimento segundo a [Antroposofia](../antroposofia). Os elementos principais são ritmos sólidos na rotina diária e no progresso semanal e uma forte relação com as estações do ano e as comemorações. Os ritmos previsíveis ao longo do dia, semana e ano que fornecem segurança e um sentido das interelações e plenitude da vida.
 
 A abordagem mais importante da educação nessa fase é a imitação. As forças que atuam sobre os órgãos físicos maleáveis que estão em formação, vêm à tona com alegria e com ajuda do meio ambiente. Os(as) educadores(as) são alegres e, acima de tudo, honestos(as) e amorosos(as), que gostam do que fazem. Esse amor, que flui pelo ambiente, aquece dando verdadeiro sentido às formas de desenvolvimento físico e emocional. 
 
