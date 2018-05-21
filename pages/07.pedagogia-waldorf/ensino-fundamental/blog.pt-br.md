@@ -1,6 +1,17 @@
 ---
 title: 'Ensino Fundamental'
+content:
+    items:
+        - '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true
 ---
+
+# Ensino Fundamental
 
 No Ensino Fundamental, no segundo setênio – dos 7 aos 13 anos –, o mundo é belo. Os alunos são recebidos em um ambiente caloroso, mas agora com um formato de sala de aula. Trabalhamos com a proposta da Sala em Movimento: o movimento é a premissa para a ampliação cognitiva e um pensar livre, o que não se limita ao mobiliário, mas a inúmeros recursos a que o(a) educador(a) recorre para propiciar dinâmicas em que cada aluno(a), o grupo e ele próprio se alternem no centro do ensino e se movimentem nos âmbitos do Pensar, Sentir e Querer. 
 
